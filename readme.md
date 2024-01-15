@@ -1,6 +1,6 @@
 # go-crypto-client
 
-This is because Chris asked for it like he didn't think I'd actually do it. Well I sure showed him.
+This is because Chris asked for it like he didn't think I'd actually do it. Well  I  sure  showed him.
 
 This is a library for interacting with crypto statistics APIs using a datasource of your choosing. There are Go API clients for many crypto APIs; this specific one is just meant to be as convenient as possible for interacting with multiple different supported APIs at one time. Currently supported datasources are:
  * CoinMarketCap
